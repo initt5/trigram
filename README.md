@@ -6,4 +6,4 @@ In summary, models implemented are:
 - MLP, using embeddings
 - Mixture model, implemented from [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) with the help of [N-gram language models article](https://medium.com/mti-technology/n-gram-language-models-b125b9b62e58) to implement the EM algorithm.
 
-The only requirament requirement is [Pytorch](https://pytorch.org/).
+The only requirament requirement is [Pytorch](https://pytorch.org/). "The included names.txt dataset has the most common 32K names takes from [ssa.gov](ssa.gov) for the year 2018."
